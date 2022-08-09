@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+    <link rel="stylesheet" href="css/styles.css" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Order summary card</title>
+  </head>
+  <body>
+    <!--PRINCIPAL CARD CONTAINER-->
+    <main class="main__Container">
+      <!--THE IMAGE OF THE HEADER-->
+      <div class="img__Container"></div>
+
+      <!--THE CONTAINER FOR THE TEXT PART-->
+      <section class="text__Container">
+        <header class="header__Container">
+          <h1>Order Summary</h1>
+        </header>
+        <p class="p__Container">
+          You can now listen to millions of songs, audiobooks, and podcasts on
+          any device anywhere you like!
+        </p>
+      </section>
+
+      <!--THE CONTAINER FOR THE PRICE-->
+      <!--*Maybe i use in this one grid and flex. Grid in the principal container and flex for each element-->
+      <div class="price__Container">
+        <img class="img__Svg" src="images/icon-music.svg" alt="" />
+        <div class="ap__Container">
+          <span class="anual__P"> Annual Plan</span>
+          <span class="price__FY">$59.99/year</span>
+        </div>
+        <span class="change__Container"><a href="#">Change</a></span>
+      </div>
+
+      <!--BUTTONS SECTION-->
+      <div class="buttons__Container">
+        <button class="blue__Button">Proceed to Payment</button>
+        <a href="#" class="cancel__Button">Cancel Order</a>
+      </div>
+    </main>
+
+    <!-- <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Alan Lopez</a>.
+    </footer> -->
+  </body>
+</html>
