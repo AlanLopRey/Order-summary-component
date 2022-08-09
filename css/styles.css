@@ -166,7 +166,6 @@ body {
   }
 
   .img__Container {
-    background-image: url(/images/illustration-hero.svg);
     width: 450px;
     height: 220px;
     background-repeat: no-repeat;
