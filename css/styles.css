@@ -52,7 +52,7 @@ body {
 }
 
 .img__Container {
-  background-image: url(/images/illustration-hero.svg);
+  background-image: url(https://raw.githubusercontent.com/AlanLopRey/Order-summary-component/eed6bcc36467ab43d7d7fc35f7869b55e1691c8a/images/illustration-hero.svg);
   width: 330px;
   height: 160px;
   background-repeat: no-repeat;
