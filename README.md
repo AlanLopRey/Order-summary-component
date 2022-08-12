@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution url](https://alanloprey.github.io/Order-summary-component/)
+- Live Site URL: [Live site](https://alanloprey.github.io/Order-summary-component/)
 
 ## My process
 
@@ -52,25 +52,9 @@ Users should be able to:
 
 ### What I learned
 
-In this challenge i lern to modify and use de svg for the background
+In this challenge i learn to modify and use de svg for the background
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
--
 
 ### Continued development
 
